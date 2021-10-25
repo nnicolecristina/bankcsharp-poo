@@ -1,0 +1,16 @@
+C:\workspace\bancocsharp\bin\Debug\net5.0\bancocsharp.exe
+C:\workspace\bancocsharp\bin\Debug\net5.0\bancocsharp.deps.json
+C:\workspace\bancocsharp\bin\Debug\net5.0\bancocsharp.runtimeconfig.json
+C:\workspace\bancocsharp\bin\Debug\net5.0\bancocsharp.runtimeconfig.dev.json
+C:\workspace\bancocsharp\bin\Debug\net5.0\bancocsharp.dll
+C:\workspace\bancocsharp\bin\Debug\net5.0\ref\bancocsharp.dll
+C:\workspace\bancocsharp\bin\Debug\net5.0\bancocsharp.pdb
+C:\workspace\bancocsharp\obj\Debug\net5.0\bancocsharp.csproj.AssemblyReference.cache
+C:\workspace\bancocsharp\obj\Debug\net5.0\bancocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\bancocsharp\obj\Debug\net5.0\bancocsharp.AssemblyInfoInputs.cache
+C:\workspace\bancocsharp\obj\Debug\net5.0\bancocsharp.AssemblyInfo.cs
+C:\workspace\bancocsharp\obj\Debug\net5.0\bancocsharp.csproj.CoreCompileInputs.cache
+C:\workspace\bancocsharp\obj\Debug\net5.0\bancocsharp.dll
+C:\workspace\bancocsharp\obj\Debug\net5.0\ref\bancocsharp.dll
+C:\workspace\bancocsharp\obj\Debug\net5.0\bancocsharp.pdb
+C:\workspace\bancocsharp\obj\Debug\net5.0\bancocsharp.genruntimeconfig.cache
